@@ -1,0 +1,23 @@
+wi
+wy
+wu
+1,2
+wi (1,x,R) wa
+wi (2,x,R) we
+wi (x,x,R) wi
+wi ( , ,R) wy
+
+wa (1,1,R) wa
+wa (2,x,L) wo
+wa (x,x,R) wa
+wa ( , ,R) wu
+
+we (2,2,R) we
+we (1,x,L) wo
+we (x,x,R) we
+we ( , ,R) wu
+
+wo (1,1,L) wo
+wo (2,2,L) wo
+wo (x,x,L) wo
+wo ( , ,R) wi
